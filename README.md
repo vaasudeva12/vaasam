@@ -1,2 +1,5 @@
 # vaasam
 portfolio 
+I am an aspiring cybersecurity professional with a strong ability to analyze threats quickly and respond decisively under pressure. I am passionate about protecting people, organizations, and critical systems from evolving cyber threats and I thrive on the challenge of solving new, complex security problems that demand both technical skill and sharp thinking.
+I am committed to upholding the integrity and confidentiality of the systems I protect, and I bring a results-driven mindset to every task. My goal is to contribute to organizations  including government institutions by applying my analytical strengths to detect vulnerabilities, respond to incidents, and build more resilient defenses.
+As I continue growing in this field, I am dedicated to developing expertise in network security, ethical hacking, and threat analysis — driven by a genuine passion for making digital environments safer for everyone."
